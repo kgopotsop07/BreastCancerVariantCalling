@@ -14,14 +14,14 @@ Queries can be sent to: kgopotso.phakwago@protonmail.com
 
 #Dependencies and their websites
 **Pipeline Programming language used**
-* python3: 
+* python3: https://www.python.org/
 
 **Packages/programs Implemented into the analysis**
-* GatK:
-* BWA:
-* Trimmomatic:
-* Samtools:
-* Picard-tools:
-* FastQC:
-* Annovar:
+* GatK: https://gatk.broadinstitute.org/hc/en-us
+* BWA: https://github.com/lh3/bwa
+* Trimmomatic: https://github.com/usadellab/Trimmomatic
+* Samtools: http://www.htslib.org/download/
+* Picard-tools: https://github.com/broadinstitute/picard
+* FastQC: https://github.com/s-andrews/FastQC
+* Annovar:https://annovar.openbioinformatics.org/en/latest/
 * 
