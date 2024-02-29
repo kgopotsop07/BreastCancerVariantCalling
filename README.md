@@ -24,4 +24,3 @@ Queries can be sent to: kgopotso.phakwago@protonmail.com
 * Picard-tools: https://github.com/broadinstitute/picard
 * FastQC: https://github.com/s-andrews/FastQC
 * Annovar:https://annovar.openbioinformatics.org/en/latest/
-* 
